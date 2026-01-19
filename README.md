@@ -1,2 +1,2 @@
 # Project_Death-in-Germany
-Analysis of causes of death in Germany from 2019 to 2023 using official statistical data.
+A data-driven analysis of causes of death in Germany (2019–2023), exploring temporal trends and key mortality patterns.
